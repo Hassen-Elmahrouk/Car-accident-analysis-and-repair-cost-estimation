@@ -7,7 +7,7 @@ This project focuses on utilizing deep computer vision techniques to analyze car
 ## Project Pipeline
 
 ![Flowchart (1)](https://github.com/Hassen-Elmahrouk/Car-accident-analysis-and-repair-cost-estimation/assets/94080018/b0c91da2-1d22-41c4-9916-1579b6aaca66)
-ge)
+
 
 
 
