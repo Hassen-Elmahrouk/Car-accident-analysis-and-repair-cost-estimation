@@ -12,19 +12,19 @@ This project focuses on utilizing deep computer vision techniques to analyze car
 
 ## Features
 * AI Realness Check
-Ensures the authenticity of car accident images using classification AI models , i tested  a simple CNN , efficientnet and transformers .
+  Ensures the authenticity of car accident images using classification AI models , i tested  a simple CNN , efficientnet and transformers .
 
 * Damage Severity Assessment
-Used to categorize car damage into different severity levels ( moderate, severe and minor) , i tested  a simple CNN , efficientnet and transformers .
+  Used to categorize car damage into different severity levels ( moderate, severe and minor) , i tested  a simple CNN , efficientnet and transformers .
 
 * Car parts segmentation 
-Utilizes advanced algorithms, including YOLO, Mask R-CNN.
+  Utilizes advanced algorithms, including YOLO, Mask R-CNN.
 
 * Damage segmentation
-Utilizes advanced algorithms, including YOLO, Mask R-CNN .
+  Utilizes advanced algorithms, including YOLO, Mask R-CNN .
 
 * Cost Prediction
-I used llama2 7b to estimate the reparations cost range , the propmt used contains information about the accident extracted from previous steps.
+  I used llama2 7b to estimate the reparations cost range , the propmt used contains information about the accident extracted from previous steps.
 
 
 ## Getting Started
