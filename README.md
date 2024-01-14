@@ -19,3 +19,13 @@ This project focuses on utilizing deep computer vision techniques to analyze car
    ```bash
    git clone https://github.com/your_username/Car-Accident-Analysis.git
 2. Download pre-trained  Models  and Datasets : https://drive.google.com/drive/folders/1YLuYwf5tyKlYdcN_D41ZyfSAZ233Urqh?usp=sharing
+
+## Demo
+
+![img0](https://github.com/Hassen-Elmahrouk/Car-accident-analysis-and-repair-cost-estimation/assets/94080018/c5627d5d-d20e-4530-9737-13f72302f592)
+
+* **LLama2 response :
+
+![Screenshot 2024-01-14 013211](https://github.com/Hassen-Elmahrouk/Car-accident-analysis-and-repair-cost-estimation/assets/94080018/7954287a-cbc8-4349-8198-b07a7918755c)
+
+
